@@ -92,7 +92,7 @@ O projeto estará rodando e você poderá testá-lo localmente.
 
 ## Tecnologias Utilizadas
 
-- **PHP:** Versão 7.3.9
+- **PHP:** Versão 7.3.9 (LINK PARA DOWNLOAD DA VERSÃO 7.3.9 NTS https://windows.php.net/downloads/releases/archives/)
 - **Banco de Dados:** MySQL
 - **Design:** Bootstrap 5
 ---
