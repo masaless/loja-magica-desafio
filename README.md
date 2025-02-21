@@ -1,4 +1,3 @@
----
 
 # Loja Mágica Desafio
 
@@ -43,13 +42,12 @@ Criei um módulo completo para gerenciar os clientes e os pedidos mágicos. Nele
 
 ![Gestão de Clientes e Pedidos - Parte 1](https://github.com/user-attachments/assets/35d83315-d936-457e-9bbe-96c137d4ab10)
 
-### Edição e exclusão do cliente e pedidos. 
+### Exemplo da Interface para edição e exclusão. 
 
 ![Gestão de Clientes e Pedidos - Parte 2](https://github.com/user-attachments/assets/45bea797-05bf-425c-9855-2532bbf57c83)
 
-### Versão PHP 7.3.9 
+#### Versão PHP 7.3.9
+#### Design BootStrap 5
 
-### Utilizado para o Design BootStrap 5. 
-
-
+---
 
